@@ -21,6 +21,8 @@ Sovo n'est pas signé par un éditeur payant, donc Windows affiche « Windows a 
 
 Windows ne te le redemandera plus pour cette version.
 
+**Si Windows dit que le « Contrôle intelligent des applications » a bloqué Sovo** (sans lien « Informations complémentaires ») : cette protection bloque toute app non signée par un éditeur payant. Pour utiliser Sovo, désactive-la : Sécurité Windows > **Contrôle des applications et du navigateur** > **Paramètres du Contrôle intelligent des applications** > **Désactivé**. Sur Windows 11 25H2 à jour, tu pourras la réactiver plus tard. Sur une version plus ancienne, la réactiver demande de réinitialiser Windows (Paramètres > Système > Informations pour voir ta version). Relance ensuite Sovo.exe.
+
 **Si une fenêtre parle de « Visual C++ »** : c'est un composant gratuit de Microsoft dont Sovo a besoin, et ton PC ne l'a pas (ou en a une version trop ancienne). Clique **OK**, accepte l'autorisation de Windows, l'installation prend une minute, puis Sovo démarre. L'installeur officiel est déjà dans le dossier, rien à télécharger.
 
 ## 3. Premier lancement : patience
